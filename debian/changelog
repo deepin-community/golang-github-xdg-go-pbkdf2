@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-xdg-go-pbkdf2 (1.0.0-3) unstable; urgency=medium
 
-  * Initial release
+  * Switch to Standards-Version 4.7.0 (no changes needed).
+  * Update copyright years.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Guillem Jover <gjover@sipwise.com>  Mon, 09 Sep 2024 23:40:59 +0200
+
+golang-github-xdg-go-pbkdf2 (1.0.0-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Guillem Jover <gjover@sipwise.com>  Mon, 13 Dec 2021 17:43:54 +0100
+
+golang-github-xdg-go-pbkdf2 (1.0.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1001025)
+
+ -- Guillem Jover <gjover@sipwise.com>  Thu, 02 Dec 2021 21:53:37 +0100
